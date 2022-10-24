@@ -87,3 +87,4 @@ If you want to delete and create your Kind and K3d clusters and pull the Postgre
 ./get_ip.sh
 ```
 # clooudnativepg
+# clooudnativepg
