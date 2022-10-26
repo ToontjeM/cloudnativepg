@@ -1,6 +1,6 @@
 #!/bin/bash
 
-docker system prune
+#docker system prune
 docker pull ghcr.io/cloudnative-pg/postgresql:13
 docker pull ghcr.io/cloudnative-pg/postgresql:14.2
 #docker pull ghcr.io/cloudnative-pg/postgresql:14.3
